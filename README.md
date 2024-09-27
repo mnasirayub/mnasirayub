@@ -8,7 +8,7 @@ I am enthusiastic about programming, focused on finding easy solutions learning 
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [nasir138g@gmail.com](mailto:nasir138g@gmail.com)
-* 🧠  I'm learning NODE JS
+* 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on Part Time & Full Time Job
 
 ### Skills
